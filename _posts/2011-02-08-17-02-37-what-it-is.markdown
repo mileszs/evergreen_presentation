@@ -2,4 +2,4 @@
 
 ## Jasmine + Nice Helpers
 
-![Jasmine](/images/jasmine_logo.png)
+![Jasmine](images/jasmine_logo.png)
