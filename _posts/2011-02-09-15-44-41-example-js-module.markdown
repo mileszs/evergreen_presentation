@@ -1,3 +1,4 @@
+{% highlight javascript %}
 
     var MyApp = {};
     (function() {
@@ -11,3 +12,4 @@
       }
     }).call(MyApp);
       
+{% endhighlight %}
