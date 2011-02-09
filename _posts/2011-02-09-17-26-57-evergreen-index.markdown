@@ -1,5 +1,5 @@
 # evergreen serve
 
 <div class="center"> 
-![Evergreen index](images/evergreen_index.jpg)
+<img alt="Evergreen index" src="images/evergreen_index.jpg" />
 </div>

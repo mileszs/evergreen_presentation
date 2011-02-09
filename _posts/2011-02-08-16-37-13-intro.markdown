@@ -3,5 +3,5 @@
 ## Not just a type of tree.
 
 <div class="center"> 
-![Not a Tree in This Case](http://rlv.zcache.com/no_trees_magnet-p147485112464704994td9z_125.jpg)
+<img alt="Not a Tree in This Case" src="http://rlv.zcache.com/no_trees_magnet-p147485112464704994td9z_125.jpg" />
 </div>
