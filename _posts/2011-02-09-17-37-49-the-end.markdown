@@ -4,4 +4,6 @@
 + [Jasmine](http://pivotal.github.com/jasmine/)
 + [CoffeeScript](http://jashkenas.github.com/coffee-script/)
 
-Also, this presentation was created using [Jekyll and Hyde](https://github.com/jingweno/jekyll_and_hyde).
+This presentation was created using [Jekyll and Hyde](https://github.com/jingweno/jekyll_and_hyde).
+
+See the source at [](https://github.com/mileszs/evergreen_presentation).
