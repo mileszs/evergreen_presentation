@@ -1,3 +1,3 @@
 <div class="center"> 
-![Evergreen spec output](images/evergreen_spec_output.jpg)
+<img alt="Evergreen spec output" src="images/evergreen_spec_output.jpg" />
 </div>
