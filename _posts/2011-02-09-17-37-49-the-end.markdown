@@ -6,4 +6,5 @@
 
 This was created using [Jekyll and Hyde](https://github.com/jingweno/jekyll_and_hyde).
 
-See the source at [https://github.com/mileszs/evergreen_presentation]().
+See the slides at [mileszs.github.com/evergreen_presentation](http://mileszs.github.com/evergreen_presentation)
+See the source at [github.com/mileszs/evergreen_presentation](https://github.com/mileszs/evergreen_presentation)
